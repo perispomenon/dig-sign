@@ -1,4 +1,4 @@
 .idea/
 out/
 src/META-INF
-cw*
+cw.iml
